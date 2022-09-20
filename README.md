@@ -8,7 +8,7 @@ This project is a library for indexing.
 Add the following dependency:
 ````XML
 <dependency>
-    <groupId>io.gitlab.mikhail-petrov.supertal-test</groupId>
+    <groupId>io.github.mikhail-petrov.supertal-test</groupId>
     <artifactId>supertal-test</artifactId>
     <version>${VERSION}</version>
 </dependency>
