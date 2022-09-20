@@ -10,6 +10,6 @@ Add the following dependency:
 <dependency>
     <groupId>io.github.mikhail-petrov.supertal-test</groupId>
     <artifactId>supertal-test</artifactId>
-    <version>${VERSION}</version>
+    <version>1.0</version>
 </dependency>
 ````
